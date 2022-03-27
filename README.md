@@ -21,7 +21,7 @@ release_year, rating, duration, listed_in and description.
 * Maximum Movies & Tv Shows were listed in Dramas, International Movies, Documentaries, Stand-Up Comedy etc.
 * From 1942 Movie shows were started releasing & from 1925 Tv shows started releasing.
 
-#### Asking Questions :
+#### Finding answers to the following questions :
 Q. 1) For 'Kota Factory', who were the cast and what is the release date?
 
 Q. 2) In which year the highest number of the TV Shows & Movies were released ?
