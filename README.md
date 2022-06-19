@@ -36,11 +36,3 @@ Q. 6) Which are the top 10 country that has the Highest No. of TV Shows released
 
 Q. 7) Which are the top 10 country that has the Highest No. of Movies released ?
 
-
-
-## Task 3 : Create quiz on Linear regression
-
-Google form link : https://forms.gle/xCXDX1P5tf7d1Agd8 
-
-In this task questionnaire of 10 questions has been created on linear regression.
-At the end answer key has been included.
